@@ -6,4 +6,4 @@ If you need code before adding Redux in the project , clone from before-redux/to
 git clone -b before-redux/toolkit git@github.com:DentedCode/crm-frontend.git
 
 Backend API
-Backend api for this app is in the following repo: [https://github.com/DentedCode/client-api](https://github.com/AnveshAmbala/CRM-ticket-system-Backend/blob/main/CRM-Backend/README.md)https://github.com/AnveshAmbala/CRM-ticket-system-Backend/blob/main/CRM-Backend/README.md
+Backend api for this app is in the following repo: [https://github.com/DentedCode/client-api](https://github.com/AnveshAmbala/CRM-ticket-system-Backend/blob/main/CRM-Backend)https://github.com/AnveshAmbala/CRM-ticket-system-Backend/blob/main/CRM-Backend/README.md
